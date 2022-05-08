@@ -1,0 +1,30 @@
+Package: io.pangu.axe7 
+Name: Pangu 7.1-7.1.x Untether
+Depiction: http://cydia.saurik.com/info/io.pangu.axe7/
+Version: 0.3
+Architecture: iphoneos-arm 
+Description: untethered jailbreak based on pangu exploits
+Maintainer: Pangu <axe@pangu.io>
+Author: Pangu <axe@pangu.io>
+Section: Tweak
+Depends: coreutils-bin, firmware (>= 7.1), firmware (<= 7.1.2)
+Filename: debs/io.pangu.axe7_0.3_iphoneos-arm.deb 
+Size: 107276
+MD5sum: 3d86ef34bda9287e6081dda95b7593dd
+SHA1: 4267988b1bfdc4578dced131667ccca8eb6eb986
+SHA256: db7e412fd629802e26c8aec481cdca9cfe0a3bc33c7a4cc243351245da5cb172
+
+Package: com.trc.drasupport
+Name: DRA Development support
+Version: 0.1
+Architecture: iphoneos-arm 
+Description: De Rubus Antiquis development support package
+Maintainer: TheRealClarity <therealclarity@pm.me>
+Author: TheRealClarity <therealclarity@pm.me>
+Section: Tweak
+Depends: firmware (>= 7.0), firmware (<= 7.1.2)
+Filename: debs/com.trc.drasupport_0.1_iphoneos-arm.deb
+Size: 60924192
+MD5sum: e18cd8e2238426d166f5595f097280f3
+SHA1: db4d55e4f6ac8099c9498ceb7a22bffd7cd83606
+SHA256: 146c951ee9b5b0f4243a701906ba18121d8ab8eba6292a7ab289d7147cd557b2
